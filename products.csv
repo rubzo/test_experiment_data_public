@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock_quantity,supplier,last_updated
+101,Wireless Headphones,Electronics,79.99,45,TechCorp,2023-06-15
+102,Coffee Maker,Appliances,149.50,12,HomeGear,2023-06-10
+103,Running Shoes,Sports,129.99,28,SportMax,2023-06-12
+104,Laptop Stand,Electronics,45.00,67,TechCorp,2023-06-14
+105,Yoga Mat,Sports,24.99,89,FitLife,2023-06-11
+106,Bluetooth Speaker,Electronics,59.99,23,SoundWave,2023-06-13
+107,Kitchen Knife Set,Home,89.99,34,CookPro,2023-06-09
+108,Desk Lamp,Furniture,39.99,56,LightSource,2023-06-16
+109,Water Bottle,Sports,19.99,78,HydroMax,2023-06-08
+110,Wireless Mouse,Electronics,29.99,91,TechCorp,2023-06-17
+111,Plant Pot,Home,15.50,42,GreenThumb,2023-06-07
+112,Phone Case,Electronics,12.99,156,ProtectTech,2023-06-18
+113,Backpack,Travel,69.99,33,Adventure Co,2023-06-06
+114,Candle Set,Home,32.99,27,Aromatics,2023-06-19
+115,Gaming Mouse Pad,Electronics,25.99,48,GameZone,2023-06-05

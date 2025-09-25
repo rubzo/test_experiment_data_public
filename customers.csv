@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,age,registration_date,city,country
+1,Alice,Johnson,alice.johnson@email.com,28,2023-01-15,New York,USA
+2,Bob,Smith,bob.smith@email.com,34,2023-02-20,London,UK
+3,Carol,Davis,carol.davis@email.com,45,2023-03-10,Toronto,Canada
+4,David,Wilson,david.wilson@email.com,29,2023-01-25,Sydney,Australia
+5,Emma,Brown,emma.brown@email.com,31,2023-04-05,Berlin,Germany
+6,Frank,Miller,frank.miller@email.com,52,2023-02-14,Paris,France
+7,Grace,Taylor,grace.taylor@email.com,26,2023-05-18,Tokyo,Japan
+8,Henry,Anderson,henry.anderson@email.com,38,2023-03-22,Madrid,Spain
+9,Ivy,Thomas,ivy.thomas@email.com,41,2023-01-08,Amsterdam,Netherlands
+10,Jack,Jackson,jack.jackson@email.com,33,2023-04-12,Stockholm,Sweden
+11,Kate,White,kate.white@email.com,27,2023-06-01,Oslo,Norway
+12,Liam,Harris,liam.harris@email.com,39,2023-02-28,Copenhagen,Denmark
+13,Maya,Martin,maya.martin@email.com,24,2023-05-30,Helsinki,Finland
+14,Noah,Thompson,noah.thompson@email.com,46,2023-03-15,Brussels,Belgium
+15,Olivia,Garcia,olivia.garcia@email.com,30,2023-04-20,Zurich,Switzerland

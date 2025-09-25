@@ -1,0 +1,16 @@
+employee_id,first_name,last_name,email,department,position,salary,hire_date,manager_id
+E001,Sarah,Connor,sarah.connor@company.com,Engineering,Senior Developer,95000,2021-03-15,E010
+E002,John,Doe,john.doe@company.com,Sales,Sales Representative,55000,2022-01-20,E011
+E003,Jane,Smith,jane.smith@company.com,Marketing,Marketing Manager,75000,2020-09-10,E012
+E004,Mike,Johnson,mike.johnson@company.com,Engineering,Junior Developer,65000,2023-02-01,E010
+E005,Lisa,Brown,lisa.brown@company.com,HR,HR Specialist,60000,2021-11-30,E013
+E006,Tom,Wilson,tom.wilson@company.com,Finance,Financial Analyst,70000,2022-05-15,E014
+E007,Anna,Davis,anna.davis@company.com,Sales,Senior Sales Rep,68000,2021-07-22,E011
+E008,Chris,Miller,chris.miller@company.com,Marketing,Content Creator,52000,2023-01-10,E012
+E009,Emma,Taylor,emma.taylor@company.com,Engineering,DevOps Engineer,85000,2020-12-05,E010
+E010,Robert,Garcia,robert.garcia@company.com,Engineering,Engineering Manager,110000,2019-06-01,
+E011,Maria,Rodriguez,maria.rodriguez@company.com,Sales,Sales Director,95000,2019-08-15,
+E012,David,Martinez,david.martinez@company.com,Marketing,Marketing Director,90000,2020-02-20,
+E013,Lisa,Anderson,lisa.anderson@company.com,HR,HR Director,85000,2019-10-12,
+E014,Kevin,Thompson,kevin.thompson@company.com,Finance,Finance Director,100000,2019-04-08,
+E015,Rachel,White,rachel.white@company.com,Engineering,QA Engineer,72000,2022-08-30,E010
